@@ -1,2 +1,5 @@
-# Cloud_Project
-This is a project for cloud computing class
+# Food_Engine
+
+This is a group project for Cloud Computing class
+
+API: https://www.themealdb.com/api.php
